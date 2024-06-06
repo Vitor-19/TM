@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_bloqueio","order":2,"path":"sprites/spr_bloqueio/spr_bloqueio.yy",},
+    {"name":"obj_bola_de_magia","order":5,"path":"objects/obj_bola_de_magia/obj_bola_de_magia.yy",},
+    {"name":"obj_bloqueio","order":4,"path":"objects/obj_bloqueio/obj_bloqueio.yy",},
+    {"name":"obj_maca","order":3,"path":"objects/obj_maca/obj_maca.yy",},
+    {"name":"spr_bola_de_magia","order":4,"path":"sprites/spr_bola_de_magia/spr_bola_de_magia.yy",},
+    {"name":"spr_fundo","order":5,"path":"sprites/spr_fundo/spr_fundo.yy",},
+    {"name":"obj_parede","order":1,"path":"objects/obj_parede/obj_parede.yy",},
+    {"name":"spr_parede","order":1,"path":"sprites/spr_parede/spr_parede.yy",},
+    {"name":"spr_maca","order":3,"path":"sprites/spr_maca/spr_maca.yy",},
+  ],
+}
